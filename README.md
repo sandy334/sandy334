@@ -1,8 +1,8 @@
 # 💫 About Me:
-Hi! I'm an aspiring Full Stack Developer with a strong interest in JavaScript, React, and Node.js.<br>
-I'm passionate about solving real-world problems using clean and scalable code.<br>
-I’m also exploring ServiceNow and have hands-on experience in Frontend Development.<br>
-
+I'm Sandesh H R, an aspiring Full-Stack Developer with hands-on experience in React, Node.js, and MongoDB.<br>
+I’ve built multiple responsive web applications through internships and personal projects.<br>
+I'm passionate about crafting efficient, user-friendly solutions and continuously learning in a fast-paced tech landscape.<br>
+I’m also exploring the ServiceNow ecosystem and Cloud Security concepts, aiming to build scalable and secure enterprise apps.
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandeshhr334@gmail.com) 
@@ -27,6 +27,9 @@ I’m also exploring ServiceNow and have hands-on experience in Frontend Develop
 ![](https://github-readme-stats.vercel.app/api?username=sandy334&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=sandy334&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandy334&theme=dark&hide_border=false&layout=compact)
+
+# 💻 Leetcode Stats:
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sandy_3_3_4?ext=heatmap)](https://leetcode.com/u/sandy_3_3_4/)
 
 # 🌟 Projects:
 - 🎯 [Breast Cancer Detection (React + Flask ML App)](https://breast-cancer-prediction-detection.onrender.com/)
