@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sandesh H R</h1>
-<h3 align="center">Aspiring Full-Stack Developer | React | Node.js | MongoDB | ServiceNow</h3>
+<h3 align="center">Aspiring Full-Stack Developer | React | Node.js | MongoDB</h3>
 
 ---
 
 ## 💫 About Me
 🔹 I'm a passionate **Full-Stack Developer** with hands-on experience in building responsive, performant, and scalable web applications.<br>
-🔹 Currently exploring **ServiceNow**, **Cloud Security**, and automation for secure enterprise solutions.<br>
+🔹 Currently focusing on **MERN Stack** development and building real-world projects to enhance my skill set.<br>
 🔹 I'm always up for learning, collaborating on real-world projects, and contributing to the open-source ecosystem.
 
 ---
@@ -32,11 +32,10 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
-**Other Tools & Platforms**  
+**Tools**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/render-%23202b3c.svg?style=flat&logo=render&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00c300?style=flat&logo=servicenow&logoColor=white)
 
 ---
 
@@ -70,7 +69,6 @@ Classic 2-player game with JavaScript and interactive UI.
 ## 📜 Certifications
 - 🛡️ **Zero Trust Certified Associate** – Zscaler  
 - 🧠 **Foundations of Web Development** – Udemy  
-- 🔧 **ServiceNow Micro-Certs** – Flow Designer, UI Builder
 
 ---
 
