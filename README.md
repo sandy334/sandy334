@@ -4,21 +4,21 @@
 ---
 
 ## 💫 About Me
-🔹 I'm a passionate **Full-Stack Developer** with hands-on experience in building responsive, performant, and scalable web applications.<br>
-🔹 Currently focusing on **MERN Stack** development and building real-world projects to enhance my skill set.<br>
-🔹 I'm always up for learning, collaborating on real-world projects, and contributing to the open-source ecosystem.
+I'm a passionate Computer Science undergraduate focused on building **responsive**, **performant**, and **scalable** web applications using the **MERN stack**.<br>
+I enjoy transforming ideas into real-world products and learning continuously in fast-paced environments.  
+Currently, I'm exploring more backend and DevOps concepts to strengthen my engineering fundamentals.
 
 ---
 
 ## 🌐 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sandeshhr334@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sandesh-hr-32262a220)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sandeshhr334@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandesh-hr-32262a220)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/sandy334)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722?style=flat&logo=Firefox&logoColor=white)](https://sandeshportfoliofrontend.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=Firefox&logoColor=white)](https://sandeshportfoliofrontend.netlify.app)
 
 ---
 
-## 🧰 Tech Stack
+## 💻 Tech Stack
 
 **Frontend**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -36,6 +36,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/render-%23202b3c.svg?style=flat&logo=render&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -53,16 +54,16 @@
 ## 🌟 Projects
 
 🔬 [**Breast Cancer Detection**](https://breast-cancer-prediction-detection.onrender.com/)  
-React + Flask-based ML web app for early detection of breast cancer using classification models.
+React + Flask-based ML web app for early-stage breast cancer prediction.
 
 ☀️ [**Weather Forecast App**](https://65e0c9f92724210c1ad8b744--curious-kitten-a0bb67.netlify.app/)  
-JavaScript-based UI that fetches real-time weather using OpenWeather API.
+Real-time weather updates using OpenWeatherMap API and JavaScript.
 
-🛍️ [**Dripsneak E-commerce Store**](https://6638ff4c861482f97b4e0406--resilient-cendol-5ee238.netlify.app/)  
-Fully responsive e-commerce frontend built using React and TailwindCSS.
+🛍️ [**Dripsneak E-commerce**](https://6638ff4c861482f97b4e0406--resilient-cendol-5ee238.netlify.app/)  
+Fully responsive e-commerce UI with product cart, checkout flow, and routing.
 
 ❌⭕ [**Tic-Tac-Toe Game**](https://65e0ce03e014d50c5664a8dc--jade-croissant-d76022.netlify.app/)  
-Classic 2-player game with JavaScript and interactive UI.
+Classic 2-player JS game with win logic, UI, and restart functionality.
 
 ---
 
@@ -73,21 +74,15 @@ Classic 2-player game with JavaScript and interactive UI.
 ---
 
 ## 🏆 Achievements
-- 🥇 Finalist (Top 30/100+ teams) – Internal Smart India Hackathon as a 2nd-year student
+- 🥇 Finalist – Top 30/100+ teams in the Internal Smart India Hackathon (as a 2nd-year student)
 
 ---
 
 ## 🎓 Education
-**B.Tech – Computer Science (IoT)**  
-🟦 GITAM University, Bengaluru (2022 – 2026)
+**GITAM University, Bengaluru**  
+B.Tech in Computer Science and Engineering (IoT) — *2022 – 2026*
 
-**PUC – Science**  
-🟩 GSI PU College, Mysuru (2020 – 2022)
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sandy334&icon=0&color=0" alt="Profile views counter"/>
-</p>
+**GSI PU College, Mysuru**  
+PUC (Science) — *2020 – 2022*
 
 <!-- 🚀 Built with ❤️ by Sandesh using markdown magic ✨ -->
