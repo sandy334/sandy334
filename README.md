@@ -23,7 +23,8 @@ I’m also exploring the ServiceNow ecosystem and Cloud Security concepts, aimin
 # 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sandy334&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=sandy334&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandy334&theme=dark&hide_border=false&layout=compact)
+
+<!-- Note: Top Languages card removed due to inaccurate Jupyter stats -->
 
 # 💻 Leetcode Stats:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sandy_3_3_4?ext=heatmap)](https://leetcode.com/u/sandy_3_3_4/)
